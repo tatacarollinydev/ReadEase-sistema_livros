@@ -1,0 +1,28 @@
+body {
+    margin: 10px;
+    padding: 0;
+}
+/*Tabela de livros*/
+table {
+    width: 100%;
+}
+/*Cabeçalho da tabela*/
+th {
+    background-color: #f2f2f2;
+    font-size: 2rem;
+    font-weight: 100;
+    text-align: center;
+}
+tr:hover {
+    background-color: #f2f2f2;
+}
+.item {
+    border: 1px solid #a1a1a1;
+    padding: 8px;
+    text-align: center;
+    font-size: 1.5rem;
+}
+span {
+    font-size: 1.5rem;
+    color: #8f8e8e;
+}
